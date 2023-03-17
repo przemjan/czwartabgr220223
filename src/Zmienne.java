@@ -26,5 +26,11 @@ public class Zmienne {
 
         boolean sun = true; //false
 
+        // https://github.com/przemjan/czwartabgr220223
+
+        double podstawa = 13;
+        double wykladnik = 3;
+        double potega = Math.pow(podstawa,wykladnik);
+
     }
 }
