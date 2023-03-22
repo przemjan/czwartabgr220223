@@ -27,6 +27,7 @@ public class Zmienne {
         boolean sun = true; //false
 
         // https://github.com/przemjan/czwartabgr220223
+        // Tworzenie i testowanie programów i aplikacji.
 
         double podstawa = 13;
         double wykladnik = 3;
